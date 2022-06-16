@@ -1,1 +1,8 @@
-
+Summary
+Description
+Actual_result
+Expected_result
+Attachments
+Priority
+Severity
+Status
