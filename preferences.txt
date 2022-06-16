@@ -1,0 +1,5 @@
+favourite_film - not
+favourite_TV_series - no
+favourite_food_ - salad
+favourite_season - summer
+country - Australia
